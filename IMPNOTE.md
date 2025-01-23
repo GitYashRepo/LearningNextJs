@@ -1,7 +1,9 @@
 # Next JS
 
 ## Create a Project (Commands):-
-- npx create-next-app@latest
+`
+npx create-next-app@latest
+`
 ### you will than get several prompts which get information from you regarding the app creation. Those prompts are:-
 ```
 ? What is your project named? > projectName
