@@ -6,7 +6,7 @@
 npx create-next-app@latest
 ```
 ### you will than get several prompts which get information from you regarding the app creation. Those prompts are:-
-`
+```
 ? What is your project named? > projectName
 ? Would you like to use TypeScript? > No / **Yes**
 ? Would you like to use EsLint? > No / **Yes**
@@ -15,7 +15,7 @@ npx create-next-app@latest
 ? Would you like to use App Router?(recommended) > No / **Yes**
 ? Would you like to use Turbopack for `next dev`? > **No** / Yes
 ? Would you like to customize the import alias (`@/*` by default)? > **No** / Yes
-`
+```
 
 
 ## Folder Structure :-
