@@ -16,7 +16,7 @@
 
 
 ### Example of Nested Routing :-
-<img src="./images/Routing/nestedRoute.png" alt="Nested Routing Demo" title="Nested Routing Demo" width="200" />
+<img src="./images/Routing/nestedRoute.png" alt="Nested Routing Demo" title="Nested Routing Demo" width="600" />
 - If we have to create routes like :- http://localhost:3000/blog/blogone , http://localhost:3000/blog/blogtwo etc so for that here is how we have to create the files:-
 ```
 -> app
