@@ -3,34 +3,17 @@
 
 ### Example of Simple Routing :-
 ![My Image](./images/Routing/filebasedRouting.png "Routing")
-```
--> app
-    -> home
-        - page.tsx
-    -> about
-        - page.tsx
-    -> profile
-        - page.tsx
-    - layout.tsx
-    - page.tsx
-```
+![My Image](./images/Routing/res1.png "Routing")
+
 
 
 ### Example of Nested Routing :-
-![My Image](./images/Routing/nestedRoute.png "Routing")
 - If we have to create routes like :- http://localhost:3000/blog/blogone , http://localhost:3000/blog/blogtwo etc so for that here is how we have to create the files:-
-```
--> app
-    -> blog
-        -> blogone
-            - page.tsx
-        -> blogtwo
-            - page.tsx
-        - page.tsx
-    - layout.tsx
-    - page.tsx
-```
+![My Image](./images/Routing/nestedRoute.png "Routing")
+![My Image](./images/Routing/res2.png "Routing")
 
 
 ### Example of Dynamic Routing :-
+- If we have to create a Dynamic Route something like this as shown in image below than the folder structure we have to make looks like this:-
 ![My Image](./images/Routing/nestedRoute.png "Routing")
+![My Image](./images/Routing/res3.png "Routing")
