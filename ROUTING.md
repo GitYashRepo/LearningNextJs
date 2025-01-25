@@ -21,12 +21,12 @@
 - Result to Achieve :-
 
 
-![My Image](./images/Routing/nestedRoute.png "Routing")
+![My Image](./images/Routing/nestedRoute.png "Nested Routing")
 
 - Folder Structure :-
 
 
-![My Image](./images/Routing/res2.png "Routing")
+![My Image](./images/Routing/res2.png "Nested Routing")
 
 ---
 
@@ -36,11 +36,41 @@
 - Result to Achieve :-
 
 
-![My Image](./images/Routing/nestedRoute.png "Routing")
+![My Image](./images/Routing/nestedRoute.png "Dynamic Routing")
 
 - Folder Structure :-
 
 
-![My Image](./images/Routing/res3.png "Routing")
+![My Image](./images/Routing/res3.png "Dynamic Routing")
+
+---
+
+### Example of NestedDynamic Routing :-
+- If we have to create a NestedDynamic Route something like this as shown in image below than the folder structure we have to make looks like this:-
+
+- Result to Achieve :-
+
+
+![My Image](./images/Routing/nestedDynamic.png "NestedDynamic Routing")
+
+- Folder Structure :-
+
+
+![My Image](./images/Routing/res4.png "NestedDynamic Routing")
+
+---
+
+### Example of Catch-all Segments Routing :-
+- If we have to create a NestedDynamic Route something like this as shown in image below than the folder structure we have to make looks like this:-
+
+- Result to Achieve :-
+
+
+![My Image](./images/Routing/catchsegments.png "Catch-all Segments")
+
+- Folder Structure :-
+
+
+![My Image](./images/Routing/res5.png "Catch-all Segments")
 
 ---
