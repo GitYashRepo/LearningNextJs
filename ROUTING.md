@@ -17,9 +17,7 @@
 
 
 ### Example of Nested Routing :-
----
-<img src="./images/Routing/nestedRoute.png" alt="Nested Routing Demo" title="Nested Routing Demo" width="600" />
----
+![My Image](./images/Routing/nestedRoute.png "Routing")
 - If we have to create routes like :- http://localhost:3000/blog/blogone , http://localhost:3000/blog/blogtwo etc so for that here is how we have to create the files:-
 ```
 -> app
@@ -35,6 +33,4 @@
 
 
 ### Example of Dynamic Routing :-
----
-<img src="./images/Routing/nestedRoute.png" alt="Nested Routing Demo" title="Nested Routing Demo" width="600" />
----
+![My Image](./images/Routing/nestedRoute.png "Routing")
